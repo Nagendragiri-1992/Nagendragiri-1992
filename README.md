@@ -1,6 +1,4 @@
-👋 Hi, I’m @Nagendragiri N
-
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Nagendragiri N 👋  
 ### Technical Lead | .NET | Azure | IFS FSM | Telecom Solutions  
 
 💻 Experienced in building scalable .NET solutions.  
